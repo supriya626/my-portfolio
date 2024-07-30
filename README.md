@@ -1,12 +1,12 @@
 
-# My Portfolio
+# Portexa
 
 This simple yet effective design helps present your professional persona and skills clearly, making it easy for potential employers or clients to understand your capabilities and reach out to you.
 
 
 ## Demo
 
-see my portfolio live at here  - https://supriya626.github.io/my-portfolio
+see "Portex" live at here  - https://supriya626.github.io/my-portfolio
 
 
 ## Features
@@ -45,7 +45,7 @@ see my portfolio live at here  - https://supriya626.github.io/my-portfolio
 
 ## Screenshots
 
-![My portFolio demo](https://github.com/supriya626/my-portfolio/blob/main/portfolio-ss.png)
+![Portexa demo](https://github.com/supriya626/my-portfolio/blob/main/portfolio-ss.png)
 
 
 ## Feedback
